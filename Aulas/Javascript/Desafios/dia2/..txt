@@ -1,0 +1,40 @@
+/*Dia 2
+Missão: Realizar contas no console.
+Objetivo:
+● Trabalhar com operadores matemáticos em Javascript
+Ao som de: Imagine Dragons - It's Time
+
+10 + 2
+12
+20 - 2
+18
+30 / 2
+15
+355/27
+13.148148148148149
+300*4
+1200
+300%43
+42
+7**2
+49
+22 ! 22
+VM205:1 Uncaught SyntaxError: Unexpected token '!'
+22!22
+VM224:1 Uncaught SyntaxError: Unexpected token '!'
+22!=22
+false
+22==22
+true
+10>2
+true
+10>=2
+true
+10<30
+true
+10<=30
+true
+30 == 30
+true
+(((((10*300)/5)*10)%30)+100**3)-5**8
+609375

@@ -1,0 +1,22 @@
+var idade = prompt("Digite a sua idade" , "Digite aqui")
+undefined
+var nome = prompt("Informe o seu nome" , "Digite aqui")
+undefined
+console.log(nome + idade)
+VM1263:1 Ryan Vieira Assumpção20
+undefined
+alert("Bem vindo!!! " + nome + " você tem " + idade +" anos!!")
+undefined
+alert("Bem vindo" + nome + " você tem " + idade +" anos!!")
+undefined
+var endereco = prompt("informe o seu endereço" , "Digite aqui !")
+undefined
+var dataDeNascimento = prompt("Informe a sua data de nascimento","digite aqui")
+undefined
+console.log(endereco + " " + dataDeNascimento)
+VM1990:1 Rua das Tamoias, 275 12/01/2005
+undefined
+alert("Seja bem vindo "+ nome + ", você tem " + idade + "anos"+ " , nasceu no dia " + dataDeNascimento+ ", e mora na rua, "+ endereco+"!!")
+undefined
+alert("Seja bem vindo "+ nome + ", você tem " + idade + " anos"+ " , nasceu no dia " + dataDeNascimento+ ", e mora na rua "+ endereco+"!!")
+undefined

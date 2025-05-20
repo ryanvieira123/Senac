@@ -1,0 +1,22 @@
+Dia 3
+Missão: Calcular a média de venda à partir dos valores
+vendidos em cada um dos meses do 1º Trim de 2024 de um
+vendedor
+Objetivo:
+● Declarar variáveis
+● Conversão de valores
+
+var vendedor = prompt("Informe o seu nome"), jan = prompt("Informe o faturamento de Janeiro"),  fev = prompt("Informe o faturamento de Fevereiro"),  mar = prompt("Informe o faturamento de Março"), mar = prompt("Informe o faturamento de Março"),  abr = prompt("Informe o faturamento de Abril"),  maio = prompt("Informe o faturamento de Maio") ,   jun = prompt("Informe o faturamento de Junho")
+
+
+mediaTotal = (jan + fev + mar + abr + maio + jun)/6
+ //2.5000003333333584e+40
+
+ alert(mediaTotal.toFixed(0))
+   //2053417
+
+let mediaTri1 = (parseFloat(jan) + parseFloat(fev) + parseFloat(mar)/3) 
+  //
+
+alert(mediaTri1.toFixed(0))
+  //4000000

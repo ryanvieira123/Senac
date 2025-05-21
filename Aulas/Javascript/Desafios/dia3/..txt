@@ -20,3 +20,8 @@ let mediaTri1 = (parseFloat(jan) + parseFloat(fev) + parseFloat(mar)/3)
 
 alert(mediaTri1.toFixed(0))
   //4000000
+
+let mediaTri2 = (parseFloat(abr) + parseFloat(maio) + parseFloat(jun)/3)
+ //5787167
+
+ 

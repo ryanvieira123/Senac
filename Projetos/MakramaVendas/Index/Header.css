@@ -16,16 +16,14 @@ padding: 0px;
 }
 
 .logoContainer{
+    justify-content: left;
   
 }.logo{
-    
     width: 150px;
 }    .sobreNav{
     }
 
-.logoContainer{
 
-}
 
 .navContainer{
  display: flex;

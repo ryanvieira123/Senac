@@ -1,14 +1,23 @@
-.bodyContainer{
-    height: 1000px;
-    background:linear-gradient(180deg, rgb(212, 189, 158),   rgb(191, 163, 127) );
+.body{
+ margin: 0px;
+ padding: 0px;
+ background: linear-gradient(180deg,rgb(207, 168, 115),rgb(236, 214, 184))
+}
+
+.bodyContainer{ 
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-bottom: auto;
+    
 }
 
 
 .vitrine{
     align-items: center;
-    justify-content: space-between;
+    justify-content:space-evenly;
     display: flex;
-
+   
 } .amostra1{
     background-image: url(produto1.png);
     background-repeat:no-repeat ;
@@ -18,11 +27,13 @@
     height: 350px;
     border-radius: 15px;
     margin-left: 90px;
-    margin-top: 90px;
     transition: transform 0.3s ease;
-    cursor:pointer;
-    
-}.amostra1:hover{
+    cursor:pointer;    
+}
+
+
+
+.amostra1:hover{
     transform: scale(1.2);
 }.nomeProduto{
     height: 30px;
@@ -48,18 +59,28 @@
 }
 
 
-.amostra2{
-    background-color: white;
-    width: 280px;
-    height: 350px;
-    border-radius: 10px;
-    margin-top: 90px;
+.personImg{
+    height: 490px;
+    width: 500px;
 }
-.amostra3{
-    background-color: white;
-    width: 280px;
-    height: 350px;
-    border-radius: 10px;
-    margin-right: 90px;
-    margin-top: 90px;
+
+.textContainer{
+
+}.titleContainer{
+
+}.title{
+    margin-left: 60px;
+ font-size: 40px;
+ color: white;
 }
+
+.paragrafoContainer{
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 40px;
+    color: white;
+} .paragrafo{
+ 
+}
+
+

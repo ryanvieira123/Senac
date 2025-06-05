@@ -1,0 +1,32 @@
+.mainBlock2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    width: 100%;
+
+
+    background-color: aliceblue;
+}
+
+.ImageContainer {
+    width: 90vw;
+    margin-left: 5.7vw;
+    margin-top: 12vh;
+}
+
+.prato {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+
+}
+
+.TextContainer {}
+
+.TitleContainer {}
+
+.ParagraphContainer {}
+
+.Paragraph {}

@@ -1,77 +1,43 @@
-
-
-.trueHeaderContainer{
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    background-color: green;
-    height: 3.8vh;
-}.locationContainer{
-    margin-left: ;
-}.geoStrong{
-    display: inline-block;
-    cursor: pointer;
-    margin-top: 0.5vh;
-    margin-left: 6.3vw;
-    transition: 0.07s;
-}.locationContainer .geoStrong:hover{
-    scale: 1.08;
-    color: white;
+.fakeHeader{
+    width: 100%;
+    height: 10vh;
 }
-
-.instagramContainer{
-    display: flex;
-    margin-left: 68.5%;
-    cursor: pointer;
-}.instaBlock{
-    transition: 0.1s;
-}
-.insta{
-    margin-top: vh;
-    width: 1.2vw;
-    height: 2.3vh;
-    
-}.instaStrong{
-    margin-left:0.3vw;
-    margin-bottom: ;
-    
-}.instagramContainer .instaBlock:hover{
-    transform: scale(1.1);
-}
-
 
 .headerContainer {
     display: flex;
-    align-items: center;
-
+    justify-content: space-between;
+    position: fixed;
     width: 100%;
     height: 10vh;
-    
-    
     background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
-.logoContainer {}
+.logoContainer {
+    
+    margin-left: 6vw;
+    width: 20vw;
+    height:10vh ;
+}
 
 .img {
-    margin-top: 1vh;
-    margin-left: 6vw;
-    width: 13vw;
-    height: 100%;
+    width: 100%;
+    
 }
 
 
 .navContainer {
-    margin-left: 67vw;
+    
     width: 100%;
-    justify-content: center;
+    display: flex;
+    justify-content: right;
     align-items: center;
-
+    margin-right: 9.7vw;
 }
 
 .receitasButton {
+   
     align-items: center;
-    justify-content: center;
 }
 
 .receitasButton .receitasStrong:hover {
@@ -85,5 +51,5 @@
     display: inline-block;
     cursor: pointer;
     transition: 0.15s;
-    color: green;
+    color: rgba(51,83,47,255);
 }

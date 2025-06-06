@@ -1,19 +1,17 @@
 .mainBlock2 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-
-
+    
     width: 100%;
-
-
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
+    
 }
 
 .ImageContainer {
-    width: 90vw;
+    width: 40vw;
     margin-left: 5.7vw;
     margin-top: 12vh;
+    border-radius: 30px;
 }
 
 .prato {
@@ -23,10 +21,20 @@
 
 }
 
-.TextContainer {}
+.TextContainer {
+    margin-right: 20vw;
+    margin-left: 5vw;
+    margin-top: 16vh;
+}   
 
-.TitleContainer {}
+.TitleContainer {
+margin-bottom: 2vh;
+}.TitleStrong{
+    font-size: 32px;
+}
 
-.ParagraphContainer {}
+.ParagraphContainer {
+    width:25vw ;
+    display: flex;
+}
 
-.Paragraph {}

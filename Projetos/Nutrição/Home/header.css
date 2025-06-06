@@ -33,23 +33,21 @@
     justify-content: right;
     align-items: center;
     margin-right: 9.7vw;
+    color: transparent;
 }
 
 .receitasButton {
-   
+   color: transparent;
     align-items: center;
 }
 
-.receitasButton .receitasStrong:hover {
-    transform: scale(1.2);
-    color: rgb(0, 0, 0);
-}
+
 
 
 .receitasStrong {
     font-size: 17px;
     display: inline-block;
-    cursor: pointer;
+    
     transition: 0.15s;
-    color: rgba(51,83,47,255);
+    color: transparent;
 }

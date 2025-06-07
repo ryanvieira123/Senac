@@ -1,0 +1,75 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+
+.mainBlock1{
+    display: flex;
+    margin-top: ;
+    height: auto;
+    justify-content: space-between;
+    background-color: #e7f1e6;
+    
+
+}.textContainer{
+    width: 31%;
+    height: auto;
+    margin-bottom: 15vh;
+    margin-top: 12vh;
+    margin-left: 6vw;
+}.titleContainer{
+    font-size: 32px;
+    width: 100%;
+    color: #33532f  ;
+}.titleStrongBlock1{
+    font-size: 2.1vw;
+}
+
+
+.paragraphContainer{
+    margin-top: 2vh;
+    width: 100%;
+}.paragraphContainerBlock1{
+    margin-bottom: 2vh;
+}.paragraphStrongBlock1{
+    font-size: 0.9vw;
+    color:#33532f ;
+}
+
+.paragraphContainer2{
+    margin-top: 2vh;
+}.paragraphStrong2Block1{
+    font-size: 0.9vw;
+    margin-top: 5vh;
+    color: #33532f ;
+}
+
+.paragraphContainer3Block1{
+    margin-top: 2vh;
+}.paragraphStrong3Block1{
+    font-size: 0.9vw;
+    color: #33532f ;
+}
+
+
+
+
+.imgContainer{
+   
+    margin-right: 10px;
+    margin-top: 13vh;
+    border-radius: 30px;
+    width: 45vw;
+    height: 10vh;
+    margin-right: 9vw;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}.pic{
+    border-radius: 30px;
+    width: 100%;
+    height: auto;
+}

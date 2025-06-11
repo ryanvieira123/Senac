@@ -17,3 +17,11 @@ produto3.addEventListener('click', function redirect(){
 produto4.addEventListener('click', function redirect(){
             window.location.href = 'Ryan Vieira Senac 2025\Repo\Senac\Senac\Projetos\MakramaVendas\produtos\produto1\produto4.html'})
 
+
+
+
+
+
+
+
+            

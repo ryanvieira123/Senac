@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fredoka:wght@300..700&display=swap');
+
 .FooterTitleContainer{
     margin-top: 100px;
-   margin-left: 90px;
+   margin-left: 200px;
 
 
 }.footerTitle{
@@ -18,7 +18,7 @@
     align-items: center ;
     justify-content:left ;
     display: flex;
-    margin-left: 94px;
+    margin-left: 200px;
     margin-top: 15px;
 
     
@@ -31,12 +31,3 @@
 }
 
 
-.contactmeContainer{
-    margin-top: 200px;
-    margin-left: 90px;
-}
-
-.strongFooter{
- color: white;
- font-size: 20px;
-}

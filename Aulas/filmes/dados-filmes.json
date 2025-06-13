@@ -95,4 +95,52 @@
     "ano": 2002,
     "genero": "Crime"
   }
+  
+,
+  {
+    "titulo": "Jurassic Park",
+    "foto": "filme1.webp",
+    "avaliacao": "10/10",
+    "duracao": "1h50m",
+    "sinopse": "Um parque temático com dinossauros clonados se transforma em um pesadelo quando as criaturas escapam.",
+    "ano": 1993,
+    "genero": "Aventura, Ficção Científica"
+  },
+  {
+    "titulo": "Karate Kid Lendas",
+    "foto": "filme2.jpg",
+    "avaliacao": "5/10",
+    "duracao": "1h30m",
+    "sinopse": "Um jovem encontra um mestre de artes marciais que o ajuda a superar desafios e encontrar equilíbrio.",
+    "ano": 2023,
+    "genero": "Ação, Drama"
+  },
+  {
+    "titulo": "Lilo e Stitch",
+    "foto": "filme3.jpg",
+    "avaliacao": "7/10",
+    "duracao": "2h00m",
+    "sinopse": "Uma garota havaiana adota um alienígena fugitivo, formando com ele uma amizade improvável.",
+    "ano": 2002,
+    "genero": "Animação, Comédia, Família"
+  },
+  {
+    "titulo": "Pecadores",
+    "foto": "filme4.jpg",
+    "avaliacao": "9/10",
+    "duracao": "2h03m",
+    "sinopse": "Cinco jovens descobrem segredos obscuros de suas famílias em uma cidade marcada por crimes e mentiras.",
+    "ano": 2022,
+    "genero": "Drama, Suspense"
+  },
+  {
+    "titulo": "Vingadores Guerra Infinita",
+    "foto": "avengers.png",
+    "avaliacao": "9/10",
+    "duracao": "2h20m",
+    "sinopse": "Os Vingadores se unem para impedir o titã Thanos de reunir as Joias do Infinito e destruir metade do universo.",
+    "ano": 2018,
+    "genero": "Ação, Aventura, Ficção Científica"
+  }
+
 ]

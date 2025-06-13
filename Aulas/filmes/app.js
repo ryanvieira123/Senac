@@ -1,34 +1,34 @@
 // JSON - javascript object notation
 
-let filme1 = { 
+{ 
     titulo: "Jurassic Park", 
     foto: "filme1.webp", 
     avaliacao: "10/10",
     duracao: "1h50m",
 }
 
-let filme2 = {
+{
     titulo: "Karate Kid Lendas",
     foto: "filme2.jpg",
     avaliacao: "5/10",
     duracao: "1h30m"
 }
 
-let filme3 = {
+{
     titulo: "Lilo e Stitch",
     foto: "filme3.jpg",
     avaliacao: "7/10",
     duracao: "2h00m"
 }
 
-let filme4 = {
+{
     titulo: "Pecadores",
     foto: "filme4.jpg",
     avaliacao: "9/10",
     duracao: "2h03m"
 }
 
-let filme5 = {
+{
     titulo: "Vingadores Guerra Infinita",
     foto: "avengers.png",
     avaliacao:"9/10",

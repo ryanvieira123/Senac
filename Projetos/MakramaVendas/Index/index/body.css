@@ -1,7 +1,7 @@
 .body{
  margin: 0px;
  padding: 0px;
- background: linear-gradient(180deg,rgb(207, 168, 115),rgb(236, 214, 184))
+ background: linear-gradient(180deg,rgb(207, 168, 115),rgb(158, 136, 105))
 }
 
 .bodyContainer{ 
@@ -21,42 +21,22 @@
 } .amostra1{
     background-image: url(produto1.png);
     background-repeat:no-repeat ;
-    background-size: 280px;
+    background-size: contain;
+    
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-    width: 280px;
-    height: 350px;
-    border-radius: 15px;
+    width: 15vw;
+    height: 20vw;
+    border-radius: 1vw;
     margin-left: 200px;
     transition: transform 0.2s ease;
     cursor:pointer;    
-}
-
-
-
-.amostra1:hover{
+}.amostra1:hover{
     transform: scale(1.1);
-}.nomeProduto{
-    height: 30px;
-    
-    justify-content: center;
-    text-align: center;
-    display: flex;
-    border-radius: 15px;
-}.strongNomeProduto{
-    margin-top: 4px;
-    
-}.ImagemProduto{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    background-color: rgb(213, 62, 62);
-    width: 100px;
-    height: 100px;
-}.img1{
-    margin-left:40px ;
-    width: 200px;   
-    border-radius: 15px;
 }
+
+    
+
+
 
 
 .ImageContainer{

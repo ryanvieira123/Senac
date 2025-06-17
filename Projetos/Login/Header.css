@@ -2,20 +2,22 @@
 .headerContainer{
     display: flex;
     align-items: center;
+    justify-content: space-between;
     width: 100%;
-    height: 80px;
+    height: 10vh;
     
     
 }
 
 .logoContainer{
-    margin-left: 166px;
-    margin-right:280px ;
+    margin-left: 10vw;
+  width: clamp(100px, 7vw + 1rem, 100px);
+  height: 100%;
   
 }.logo{
-    width: 130px;
-}.sobreNav{
-    }
+    width: 100%;
+    height: 100%;
+}
 
 
 
@@ -23,8 +25,8 @@
  display: flex ; 
  justify-content: center ;
  align-items: center ;
- height: 120px;
- cursor: pointer
+ cursor: pointer;   
+ height: 10vh;
 } .navContainer1{
     align-items: center;
     text-align: center;
@@ -74,8 +76,8 @@
     margin-left: 30px;
     border-radius:50px ;
 
-    width: 60px;
-    height: 60px;
+    width: 5vw;
+    height: 5vh;
     
     
 }.loginContainer:hover{

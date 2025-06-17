@@ -28,9 +28,9 @@
  cursor: pointer
 } .navContainer1{
     align-items: center;
-    text-align: center;
-    width: 3vw;
-    height: 5vh;
+    text-align: center;    
+    height: 100%;
+    width: clamp(83px,8vw,200px);
     
 }
 
@@ -53,14 +53,14 @@
 }
 
 .spacer{
-    width: clamp(70px,4vw,200px);
+    width: clamp(10px,1vw,200px);
 }
 
 .navContainer2{
     align-items: center;
     text-align: center;    
     height: 100%;
-    width: clamp(84px,8vw,200px);
+    width: clamp(83px,8vw,200px);
     
 }
 
@@ -80,8 +80,8 @@
     margin-right:10vw;
     border-radius:50px ;
 
-    width: clamp(30px,4vw,200px);
-    height: 4vw;
+    width: clamp(30px,3.5vw,200px);
+    height: clamp(30px,3.5vw,200px);
     
     
 }.loginContainer:hover{
